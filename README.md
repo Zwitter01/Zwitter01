@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey, I'm YOUR_NAME
+# 👾 Hey, I'm Zwitter
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Building+Ideas+Into+Real+Projects+%E2%9A%A1;Web+Development+%7C+Python+%7C+C+%7C+AI;Hackathons+%7C+Robotics+%7C+Problem+Solving;Learning.+Building.+Breaking.+Improving." />
 
@@ -22,7 +22,7 @@
 
 ```javascript
 const developer = {
-    name: "YOUR_NAME",
+    name: "Zwitter",
     role: "Aspiring Software Developer",
     location: "India 🇮🇳",
 
