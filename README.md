@@ -33,6 +33,7 @@ const developer = {
         "Hackathons",
         "Robotics",
         "Problem Solving"
+        "Vibe Coding"    
     ],
 
     currentMission: "Build projects that actually solve problems.",
