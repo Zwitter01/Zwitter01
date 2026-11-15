@@ -64,6 +64,16 @@ const developer = {
 
 ---
 
+# 🏆 Highlights
+
+### 🚆 Smart India Hackathon (SIH) 2026
+* Our team's idea and PPT got **shortlisted** in SIH 2026.
+* Built a **railway-domain project**: a complete full-stack solution ([SIH26027](https://github.com/Zwitter01/SIH26027)).
+* **My role:** Frontend, backend and database, plus integrating all parts together in VS Code.
+* **What I learned:** A good solution also needs a simple, clear explanation, and I'm now improving how I present technical work.
+
+---
+
 # 🚀 What I'm Building
 
 I don't want this profile to be filled with tutorial clones — I want every project here to represent **something I actually built, solved or experimented with.**
