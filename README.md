@@ -66,31 +66,12 @@ const developer = {
 
 # 🚀 What I'm Building
 
-I don't want this profile to be filled with tutorial clones.
+I don't want this profile to be filled with tutorial clones — I want every project here to represent **something I actually built, solved or experimented with.**
 
-I want every project here to represent **something I learned, solved or built.**
-
-### 🌐 Web Development
-
-Modern websites, interfaces and full-stack applications.
-
-### 🐍 Python
-
-Automation, problem solving, utilities and intelligent applications.
-
-### 🤖 AI / ML
-
-Experiments involving intelligent systems and real-world datasets.
-
-### ⚙️ Engineering & Robotics
-
-Hardware + software projects, robotics and competition prototypes.
-
-### 🏆 Hackathons
-
-Solutions developed under real constraints, deadlines and teamwork.
-
-> **More projects loading... ⚡**
+* 🌐 **Web Applications & Frontends:** Responsive websites, interactive interfaces, and full-stack projects.
+* ⚡ **Vibe Coding Experiments:** Quick automation scripts, prototypes, and real-world tools using modern AI workflows.
+* 🧩 **DSA in C++:** Actively building core problem-solving intuition and data structures.
+* 🏆 **Hackathon Prototypes:** Real solutions developed under tight deadlines (Shortlisted at SIH 2026).
 
 ---
 
@@ -99,11 +80,11 @@ Solutions developed under real constraints, deadlines and teamwork.
 <div align="center">
 
 <a href="https://github.com/Zwitter01/NASA-TELEMETRY-WEB-PAGE">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Zwitter01&repo=NASA-TELEMETRY-WEB-PAGE&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=NASA-TELEMETRY-WEB-PAGE&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Zwitter01/spotify-ARCHITECTURE-DECONSTRUCTED">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Zwitter01&repo=spotify-ARCHITECTURE-DECONSTRUCTED&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=spotify-ARCHITECTURE-DECONSTRUCTED&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -114,9 +95,9 @@ Solutions developed under real constraints, deadlines and teamwork.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Zwitter01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=Zwitter01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="175" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Zwitter01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zwitter01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
