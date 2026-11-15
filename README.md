@@ -135,16 +135,24 @@ I don't want this profile to be filled with tutorial clones — I want every pro
 
 # 🎯 Current Focus
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║   BUILDING > TALKING                 ║
-║   CONSISTENCY > MOTIVATION           ║
-║   PROJECTS > TUTORIALS               ║
-║   IMPROVEMENT > PERFECTION           ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&lines=%E2%9A%A1+BUILDING+%3E+TALKING;%F0%9F%94%A5+CONSISTENCY+%3E+MOTIVATION;%F0%9F%9A%80+PROJECTS+%3E+TUTORIALS;%F0%9F%8E%AF+IMPROVEMENT+%3E+PERFECTION" alt="Current Focus" />
+
+<br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔨_Action-BUILDING_%3E_TALKING-7F5AF0?style=for-the-badge&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_Discipline-CONSISTENCY_%3E_MOTIVATION-2CB67D?style=for-the-badge&labelColor=161b22" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Shipping-PROJECTS_%3E_TUTORIALS-FF8E3C?style=for-the-badge&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📈_Mindset-IMPROVEMENT_%3E_PERFECTION-E53170?style=for-the-badge&labelColor=161b22" />
+</p>
+
+</div>
 
 ---
 
