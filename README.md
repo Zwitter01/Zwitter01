@@ -40,7 +40,7 @@ const developer = {
 * 🧩 **DSA with C++:** Currently diving deep into **Data Structures & Algorithms using C++**
 * 🛠️ **Familiar Across Stacks:** Hands-on experience across multiple tools, languages & frameworks by actually building projects
 * 🎯 **100% Real:** No fake fluff or buzzwords — I prefer experimenting, building, and breaking things over sitting in tutorial-hell
-* 🏆 **Hackathons & Competitions:** Active in team builds and tech challenges (SIH shortlisted)
+* 🏆 **Hackathons & Competitions:** Active in team builds and tech challenges (SIH2026 shortlisted)
 
 ---
 
