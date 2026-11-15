@@ -2,7 +2,7 @@
 
 # 👾 Hey, I'm Zwitter
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Building+Ideas+Into+Real+Projects+%E2%9A%A1;Web+Development+%7C+Python+%7C+C+%7C+AI;Hackathons+%7C+Robotics+%7C+Problem+Solving;Learning.+Building.+Breaking.+Improving." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Builder+%7C+Vibe+Coder+%E2%9A%A1;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80;Completed+C+%7C+Learning+DSA+with+C%2B%2B;Web+Development+%7C+Automation+%7C+Hackathons;Build.+Break.+Learn.+Ship." />
 
 <br>
 
@@ -23,32 +23,24 @@
 ```javascript
 const developer = {
     name: "Zwitter",
-    role: "Aspiring Software Developer",
+    role: "Builder & Vibe Coder ⚡",
     location: "India 🇮🇳",
 
-    interests: [
-        "Software Development",
-        "Artificial Intelligence",
-        "Web Development",
-        "Hackathons",
-        "Robotics",
-        "Problem Solving",
-        "Vibe Coding"    
-    ],
+    superpower: "Vibe Coding — turning ideas into real software fast with AI",
+    foundation: "Completed C programming fundamentals",
+    currentlyLearning: "DSA with C++ 🧩",
+    experience: "Built multiple software & websites by exploring and shipping",
 
-    currentMission: "Build projects that actually solve problems.",
-
-    mindset: "Learn → Build → Fail → Debug → Improve → Repeat 🔁"
+    mindset: "Keep it real: build > talk, ship > tutorial-hell 🚀"
 };
 ```
 
-* 💻 I love turning **ideas into working projects**
-* 🧠 Exploring **Software Development, AI & real-world problem solving**
-* 🌐 Building with **Web Technologies, Python and C**
-* 🤖 Interested in **Robotics, Automation & Intelligent Systems**
-* ⚡ I prefer **building things over just watching tutorials**
-* 🏆 Participating in **hackathons, tech competitions & team projects**
-* 📈 Continuously improving my **DSA, development and engineering skills**
+* ⚡ **Vibe Coder at Heart:** Mostly into vibe coding — using AI tools and speed to turn concepts into real websites & functional software
+* 💻 **Foundation in C:** Completed core **C** programming fundamentals from the ground up
+* 🧩 **DSA with C++:** Currently diving deep into **Data Structures & Algorithms using C++**
+* 🛠️ **Familiar Across Stacks:** Hands-on experience across multiple tools, languages & frameworks by actually building projects
+* 🎯 **100% Real:** No fake fluff or buzzwords — I prefer experimenting, building, and breaking things over sitting in tutorial-hell
+* 🏆 **Hackathons & Competitions:** Active in team builds and tech challenges (SIH shortlisted)
 
 ---
 
