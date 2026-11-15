@@ -10,9 +10,9 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=PROFILE+VIEWS\&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge\&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge\&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Zwitter01&label=PROFILE+VIEWS&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Zwitter01?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Zwitter01?style=for-the-badge&logo=github)
 
 </div>
 
@@ -32,7 +32,7 @@ const developer = {
         "Web Development",
         "Hackathons",
         "Robotics",
-        "Problem Solving"
+        "Problem Solving",
         "Vibe Coding"    
     ],
 
@@ -106,17 +106,15 @@ Solutions developed under real constraints, deadlines and teamwork.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT-1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Zwitter01/NASA-TELEMETRY-WEB-PAGE">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Zwitter01&repo=NASA-TELEMETRY-WEB-PAGE&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT-2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Zwitter01/spotify-ARCHITECTURE-DECONSTRUCTED">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Zwitter01&repo=spotify-ARCHITECTURE-DECONSTRUCTED&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-> Replace `PROJECT-1` and `PROJECT-2` whenever your best projects are ready.
 
 ---
 
@@ -124,9 +122,9 @@ Solutions developed under real constraints, deadlines and teamwork.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Zwitter01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Zwitter01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -136,37 +134,17 @@ Solutions developed under real constraints, deadlines and teamwork.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Zwitter01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zwitter01/Zwitter01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -209,7 +187,7 @@ Solutions developed under real constraints, deadlines and teamwork.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:victusgeforce14@gmail.comL">
+<a href="mailto:victusgeforce14@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
