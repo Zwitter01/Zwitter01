@@ -48,17 +48,24 @@ const developer = {
 
 <div align="center">
 
-### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Foundations_&_DSA-7F5AF0?style=for-the-badge&logo=c&logoColor=white&labelColor=161b22" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&perline=6" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&perline=10" />
+<br>
 
-### ⚙️ Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack-Web_&_Backend-2CB67D?style=for-the-badge&logo=react&logoColor=white&labelColor=161b22" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,postgres,mysql&perline=6" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,mysql&perline=10" />
+<br>
 
-### 🧠 Exploring Next
-
-<img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,docker,opencv,tensorflow&perline=10" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools_&_Hardware-IoT_&_Workflow-FF8E3C?style=for-the-badge&logo=arduino&logoColor=white&labelColor=161b22" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi&perline=6" />
+</p>
 
 </div>
 
