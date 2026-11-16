@@ -23,24 +23,43 @@
 ```javascript
 const developer = {
     name: "Vishal Prajapati (YouR Zwitter)",
-    role: "Builder & Vibe Coder ⚡",
+    role: "Full-Stack Builder & Vibe Coder ⚡",
     location: "India 🇮🇳",
 
-    superpower: "Vibe Coding — turning ideas into real software fast with AI",
-    foundation: "Completed C programming fundamentals",
-    currentlyLearning: "DSA with C++ 🧩",
-    experience: "Built multiple software & websites by exploring and shipping",
+    core: ["C Fundamentals", "C++ (DSA in Progress)", "JavaScript", "Python"],
+    focus: "Bridging rapid AI vibe-coding with solid algorithmic foundations",
+    hackathon: "Smart India Hackathon 2026 (Shortlisted)",
 
-    mindset: "Keep it real: build > talk, ship > tutorial-hell 🚀"
+    philosophy: "Build > Talk · Ship > Tutorial-Hell 🚀"
 };
 ```
 
-* ⚡ **Vibe Coder at Heart:** Mostly into vibe coding — using AI tools and speed to turn concepts into real websites & functional software
-* 💻 **Foundation in C:** Completed core **C** programming fundamentals from the ground up
-* 🧩 **DSA with C++:** Currently diving deep into **Data Structures & Algorithms using C++**
-* 🛠️ **Familiar Across Stacks:** Hands-on experience across multiple tools, languages & frameworks by actually building projects
-* 🎯 **100% Real:** No fake fluff or buzzwords — I prefer experimenting, building, and breaking things over sitting in tutorial-hell
-* 🏆 **Hackathons & Competitions:** Active in team builds and tech challenges (SIH2026 shortlisted)
+<div align="center">
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Rapid Vibe Coding</h4>
+      Leveraging modern AI-driven workflows to turn concepts into functional full-stack software and live websites with speed and precision.
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Computational Foundations</h4>
+      Grounding velocity with core engineering: finished <b>C programming</b>, now actively solving <b>Data Structures & Algorithms in C++</b>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ End-to-End Implementation</h4>
+      Hands-on experience architecting frontend interfaces, backend logic, <b>PostgreSQL</b> databases, and hardware telemetry (Dual-ESP32).
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Hackathon Execution (SIH '26)</h4>
+      Shortlisted at the <b>Smart India Hackathon 2026</b> PPT stage for engineering an automated railway block planning engine (<a href="https://github.com/Zwitter01/SemaphorEngine">SemaphorEngine</a>).
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
