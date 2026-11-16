@@ -56,7 +56,14 @@ const developer = {
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Workflow-Tools_&_Hardware-2CB67D?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=161b22" /><br/><br/>
+  <img src="https://img.shields.io/badge/Full_Stack-Frontend,_Backend_&_Database-2CB67D?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161b22" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,tailwind&perline=6" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow-Tools_&_Hardware-FF8E3C?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=161b22" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux&perline=5" />
 </p>
 
