@@ -34,32 +34,11 @@ const developer = {
 };
 ```
 
-<div align="center">
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Rapid Vibe Coding</h4>
-      Leveraging modern AI-driven workflows to turn concepts into functional full-stack software and live websites with speed and precision.
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Computational Foundations</h4>
-      Grounding velocity with core engineering: finished <b>C programming</b>, now actively solving <b>Data Structures & Algorithms in C++</b>.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ End-to-End Implementation</h4>
-      Hands-on experience architecting frontend interfaces, backend logic, <b>PostgreSQL</b> databases, and hardware telemetry (Dual-ESP32).
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏆 Hackathon Execution (SIH '26)</h4>
-      Shortlisted at the <b>Smart India Hackathon 2026</b> PPT stage for engineering an automated railway block planning engine (<a href="https://github.com/Zwitter01/SemaphorEngine">SemaphorEngine</a>).
-    </td>
-  </tr>
-</table>
-
-</div>
+* ⚡ **Builder & Vibe Coder** — Rapidly shipping functional web apps and software using modern AI-assisted workflows.
+* 💻 **CS Foundations** — Solid background in **C programming**, actively practicing **Data Structures & Algorithms in C++**.
+* 🛠️ **Full-Stack & Hardware** — Hands-on experience across frontend, backend, **PostgreSQL** databases, and **ESP32** telemetry systems.
+* 🏆 **Hackathon Proven** — Shortlisted at the **Smart India Hackathon 2026** PPT stage for [SemaphorEngine](https://github.com/Zwitter01/SemaphorEngine).
+* 🎯 **Mindset** — Focused on shipping real products, breaking things, and learning by doing.
 
 ---
 
