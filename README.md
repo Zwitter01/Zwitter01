@@ -68,7 +68,7 @@ const developer = {
 
 ### 🚆 Smart India Hackathon (SIH) 2026
 * Our team's idea and PPT got **shortlisted** in SIH 2026.
-* Built a **railway-domain project**: a complete full-stack solution ([SIH26027](https://github.com/Zwitter01/SIH26027)).
+* Built a **railway-domain project**: a complete full-stack solution ([SemaphorEngine](https://github.com/Zwitter01/SemaphorEngine)).
 * **My role:** Frontend, backend and database, plus integrating all parts together in VS Code.
 * **What I learned:** A good solution also needs a simple, clear explanation, and I'm now improving how I present technical work.
 
@@ -89,13 +89,32 @@ I don't want this profile to be filled with tutorial clones — I want every pro
 
 <div align="center">
 
-<a href="https://github.com/Zwitter01/NASA-TELEMETRY-WEB-PAGE">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=NASA-TELEMETRY-WEB-PAGE&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Zwitter01/spotify-ARCHITECTURE-DECONSTRUCTED">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=spotify-ARCHITECTURE-DECONSTRUCTED&theme=tokyonight&hide_border=true" />
-</a>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Zwitter01/DownlinkCore">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=DownlinkCore&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Zwitter01/SemaphorEngine">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=SemaphorEngine&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Zwitter01/mercuryprotocolResearch">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=mercuryprotocolResearch&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Zwitter01/locuswebhook">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Zwitter01&repo=locuswebhook&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
