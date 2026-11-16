@@ -34,11 +34,32 @@ const developer = {
 };
 ```
 
-* ⚡ **Builder & Vibe Coder** — Rapidly shipping functional web apps and software using modern AI-assisted workflows.
-* 💻 **CS Foundations** — Solid background in **C programming**, actively practicing **Data Structures & Algorithms in C++**.
-* 🛠️ **Full-Stack & Hardware** — Hands-on experience across frontend, backend, **PostgreSQL** databases, and **ESP32** telemetry systems.
-* 🏆 **Hackathon Proven** — Shortlisted at the **Smart India Hackathon 2026** PPT stage for [SemaphorEngine](https://github.com/Zwitter01/SemaphorEngine).
-* 🎯 **Mindset** — Focused on shipping real products, breaking things, and learning by doing.
+<div align="center">
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Identity-Builder_%26_Vibe_Coder-7F5AF0?style=for-the-badge&logo=zap&logoColor=white&labelColor=161b22" /><br/><br/>
+      Turning ideas into live, functioning web apps and software rapidly with modern AI-driven workflows.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Foundations-C_%26_DSA_in_C%2B%2B-2CB67D?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=161b22" /><br/><br/>
+      Solid grasp of <b>C programming</b> fundamentals; actively practicing <b>Data Structures & Algorithms in C++</b>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Full_Stack-PostgreSQL_%26_IoT-00F5D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=161b22" /><br/><br/>
+      Hands-on experience across frontend interfaces, backend logic, <b>PostgreSQL</b> databases, and <b>ESP32</b> telemetry.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Hackathons-SIH_2026_Shortlist-FF8E3C?style=for-the-badge&logo=target&logoColor=white&labelColor=161b22" /><br/><br/>
+      Shortlisted at <b>Smart India Hackathon 2026</b> for engineering <a href="https://github.com/Zwitter01/SemaphorEngine"><b>SemaphorEngine</b></a> (railway automation).
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
