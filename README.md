@@ -64,7 +64,22 @@ const developer = {
 
 ---
 
-# 🏆 Highlights
+# 🏆 Highlights & Milestones
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIH_2026-Shortlisted_Candidate-FFB800?style=for-the-badge&logo=target&logoColor=white&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NASA_Telemetry-Dual_ESP32_Hardware-00F5D4?style=for-the-badge&logo=nasa&logoColor=white&labelColor=161b22" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C_Programming-Foundations_Complete-7F5AF0?style=for-the-badge&logo=c&logoColor=white&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Algorithms-DSA_with_C%2B%2B-2CB67D?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161b22" />
+</p>
+
+</div>
 
 ### 🚆 Smart India Hackathon (SIH) 2026
 * Our team's idea and PPT got **shortlisted** in SIH 2026.
