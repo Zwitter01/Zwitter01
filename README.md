@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Zwitter
+# 👾 Hey, I'm Zwitter
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Builder+%7C+Vibe+Coder+%E2%9A%A1;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80;Completed+C+%7C+Learning+DSA+with+C%2B%2B;Web+Development+%7C+Automation+%7C+Hackathons;Build.+Break.+Learn.+Ship." />
 
